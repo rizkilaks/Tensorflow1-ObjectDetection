@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Preprocessed Data-BubbleCluster</folder>
+	<filename>cluster26.jpg</filename>
+	<path>D:\Programs\Python\KPBATAN\Preprocessed Data-BubbleCluster\cluster26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>806</width>
+		<height>570</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cluster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>205</ymin>
+			<xmax>441</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cluster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>329</ymin>
+			<xmax>430</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
