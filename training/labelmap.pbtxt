@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'bubble'
+}
+
+item {
+  id: 2
+  name: 'cluster'
+}
